@@ -2,7 +2,7 @@
 
 ---
 
-### [**Description**](#) <a name="descr"></a>
+### [**Description1**](#) <a name="descr"></a>
 Face mask detection is crucial for health and safety applications, especially in the context of preventing the spread of infectious diseases. This project aims to develop a machine learning model capable of detecting whether individuals are wearing face masks in images. The dataset used for this task includes a variety of images with labeled instances of individuals with and without masks.
  
 
